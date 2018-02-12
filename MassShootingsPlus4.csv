@@ -1,0 +1,143 @@
+State,Date,Open/Close Location,Fatalities,Injured,Total victims,Weapon Type,Mental Health Issues,Race,Gender,Latitude,Longitude
+Texas,11/5/17,Close,26,20,46,Semi-automatic Rifle,No,White,M,,
+Nevada,10/1/17,Open,59,527,585,Semi-automatic Rifle,Unclear,White,M,36.181271,-115.134132
+Florida,1/6/17,Close,5,6,11,"Semi-automatic, Handgun",Yes,Latino,M,,
+Washington,9/23/16,Close,5,0,5,Semi-automatic Rifle,Yes,,M,,
+Texas,7/7/16,Open,5,11,16,"Semi-automatic Rifle, Semi-automatic Handgun",Unclear,Black,M,,
+Florida,6/12/16,Close,49,53,102,"Semi-automatic Rifle, Semi-automatic Handgun",Unclear,Other,M,,
+Texas,4/19/16,Close,4,0,4,Unknown,Unknown,White American or European American,Male,29.785785,-95.824396
+Texas,3/21/16,Close,4,0,3,Unknown,Unknown,Unknown,Male,33.635662,-96.60888
+Kentucky,3/20/16,Close,4,0,3,Unknown,Yes,White American or European American,Male,38.252665,-85.758456
+Pennsylvania,3/9/16,Open,6,3,9,Semi-automatic Rifle,Unknown,Unknown,Male,40.440625,-79.995886
+Kansas,3/7/16,Close,5,0,5,Semi-automatic Rifle,Unknown,Some other race,Male,39.114053,-94.627464
+Washington,2/26/16,Close,5,0,4,Unknown,Unknown,White American or European American,Male,47.5033,-122.931
+Arizona,2/23/16,Close,5,0,4,Unknown,Unknown,White American or European American,Male,33.448377,-112.074037
+Michigan,2/20/16,Open,6,2,8,Semi-automatic Handgun,Unclear,White,M,,
+Texas,2/6/16,Close,4,0,3,Unknown,Unknown,White American or European American,Male,29.209684,-99.786168
+Virginia,1/27/16,Close,6,0,5,Unknown,Yes,White American or European American,Male,36.7921,-76.3293
+California,12/2/15,Close,14,21,35,"Semi-automatic Rifle, Semi-automatic Handgun",Unclear,Other,M/F,,
+Ohio,11/23/15,Close,4,1,4,Unknown,Unknown,White American or European American,Male,39.98861445,-82.98904135
+Texas,11/15/15,Open,6,0,6,Unknown,Unknown,White American or European American,Male,31.8076,-95.8069
+Florida,11/13/15,Close,4,1,4,Unknown,Unknown,Black American or African American,Male,30.33216122,-81.67576993
+Maine,11/4/15,Close,4,0,3,Handgun,Unknown,Unknown,Male,44.54994725,-69.70782299
+Colorado,10/31/15,Open,4,0,3,"Semi-automatic Rifle, Semi-automatic Handgun",Unknown,White American or European American,Male,38.86730659,-104.7572279
+Oregon,10/1/15,Close,10,7,16,"Semi-automatic Rifle, Semi-automatic Handgun",Unknown,Two or more races,Male,43.22205555,-123.3522367
+South Dakota,9/17/15,Close,6,0,5,Shotgun,Unknown,White American or European American,Male,43.38682722,-98.84357239
+Minnesota,9/10/15,Close,5,0,4,Unknown,Yes,White American or European American,Male,47.69618799,-95.42844094
+Texas,8/8/15,Close,8,0,8,Handgun,Unknown,Black American or African American,Male,29.79705548,-95.36763856
+Georgia,7/22/15,Close,4,1,4,Unknown,Unknown,White American or European American,Male,34.05057545,-84.06872262
+Tennessee,7/16/15,Open,5,3,7,"Semi-automatic Rifle, Semi-automatic Handgun",Yes,White American or European American,Male,35.09318123,-85.23676751
+South Carolina,6/17/15,Close,9,1,10,Handgun,unknown,White,Male,32.788387,-79.933143
+Montana,6/7/15,Close,5,0,4,Handgun,Unknown,White American or European American,Male,46.39761858,-112.7329333
+Arizona,5/12/15,Close,5,0,4,Handgun,Yes,Unknown,Male,32.15358905,-110.9677647
+Wisconsin,5/3/15,Open,4,1,4,Handgun,Yes,Unknown,Male,44.20455909,-88.4484585
+Arizona,4/16/15,Close,5,0,4,Handgun,Unknown,Some other race,Male,33.57145875,-112.0904854
+Oklahoma,3/30/15,Close,4,0,3,Handgun,Unknown,Asian American,Male,36.13543238,-95.91316117
+North Carolina,2/28/15,Open+Close,4,0,3,Unknown,Yes,Black American or African American,Male,35.90434471,-77.55639964
+Missouri,2/26/15,Close,8,1,8,Handgun,No,White American or European American,Male,37.204442,-91.876583
+Texas,2/22/15,Close,4,1,4,Unknown,No,Black American or African American,Male,31.07925506,-97.73392317
+Georgia,2/7/15,Close,5,2,6,Unknown,No,Black American or African American,Male,33.71059292,-84.71564276
+North Carolina,2/4/15,Close,4,0,3,Handgun,Unknown,White American or European American,Male,36.27617912,-80.35501402
+Georgia,1/28/15,Close,5,0,5,Handgun,No,White American or European American,Male,33.03607062,-85.0287065
+New York,1/24/15,Close,4,1,4,Unknown,No,Black American or African American,Male,40.68996411,-73.8720502
+Pennsylvania,12/15/14,Close,7,1,7,Semi-automatic Handgun,Yes,White American or European American,Male,40.39359306,-75.49640881
+West Virginia,12/1/14,Close,5,0,4,Unknown,No,White American or European American,Male,39.63400851,-79.94839325
+Washington,10/24/14,Close,5,1,5,Handgun,No,Native American or Alaska Native,Male,48.04802409,-122.1359622
+Nevada,6/8/14,Close,5,0,3,"Handgun, Shotgun",No,White American or European American,Male/Female,36.18931923,-115.3264875
+California,5/23/14,Open+Close,6,13,19,"Semi-automatic Handgun, Knife",Yes,White,M,,
+California,2/20/14,Close,4,2,6,"Semi-automatic Handgun, Knife",No,Native American or Alaska Native,Female,41.4911123,-120.549091
+District of Columbia,9/16/13,Close,13,3,15,"Shotgun, Handgun",Yes,Black American or African American,Male,38.90480894,-77.01629717
+Oklahoma,8/14/13,Close,4,0,4,Unknown,Yes,White American or European American,Male,35.46779189,-97.5191631
+Texas,8/7/13,Close,4,4,8,Unknown,Unknown,Black American or African American,Male,32.79480596,-96.76631094
+Florida,7/26/13,Close,7,0,7,Semi-automatic Handgun,Unclear,Latino,Male,25.8670105,-80.29146268
+California,6/7/13,Open+Close,6,3,8,"Semi-automatic Rifle, Semi-automatic Handgun",Yes,White American or European American,Male,34.02319149,-118.4815644
+Illinois,4/24/13,Close,7,1,7,"Rifle, Shotgun, Knife",Unknown,White American or European American,Male,39.54231335,-90.33029852
+Washington,4/21/13,Close,5,0,4,"Semi-automatic Handgun, Shotgun",Unknown,Black American or African American,Male,47.30909721,-122.3357553
+New York,3/13/13,Open+Close,5,2,6,Shotgun,No,White American or European American,Male,43.0104011,-75.0075119
+California,2/19/13,Open+Close,4,3,6,Shotgun,Yes,White American or European American,Male,33.54961059,-117.6415707
+California,2/3/13,Open+Close,4,2,7,"Semi-automatic Rifle, Handgun",Yes,Black American or African American,Male,33.67803464,-117.773628
+Albuquerque,1/19/13,Close,5,0,5,Semi-automatic Rifle,Yes,Some other race,Male,35.15290522,-106.7791378
+Connecticut,12/14/12,Open+Close,28,2,29,"Semi-automatic Rifle, Semi-automatic Handgun, Shotgun",Yes,White American or European American,Male,41.41190846,-73.31196267
+Wisconsin,10/21/12,Close,4,4,7,Semi-automatic Handgun,No,Black American or African American,Male,43.06396691,-88.12299758
+Minnesota,9/27/12,Close,7,2,8,Semi-automatic Handgun,Yes,White American or European American,Male,44.96358722,-93.26783687
+Wisconsin,8/5/12,Close,7,4,10,Semi-automatic Handgun,No,White American or European American,Male,42.88027442,-87.90087079
+Colorado,7/20/12,Close,12,70,82,"Semi-automatic Rifle, Semi-automatic Handgun, Shotgun",Yes,white,Male,39.709283,-104.823488
+Washington,5/30/12,Open+Close,6,1,6,Semi-automatic Handgun,Yes,White American or European American,Male,47.62199575,-122.323646
+Washington,5/20/12,Open+Close,6,1,7,Semi-automatic Handgun,Yes,white,Male,47.6038321,-122.3300624
+California,4/2/12,Close,7,3,10,Semi-automatic Handgun,Yes,Asian,Male,37.8043808,-122.2708166
+Georgia,2/22/12,Close,5,0,5,Semi-automatic Handgun,Yes,Asian,Male,33.9412127,-84.2135309
+Alabama,1/29/12,Close,5,0,5,"Semi-automatic Handgun, Handgun",No,Black American or African American,Male,33.5282865,-86.79550448
+California,10/12/11,Open+Close,8,1,9,"Semi-automatic Handgun, Handgun",Yes,White American or European American,Male,33.75432632,-118.0715378
+Nevada,9/6/11,Close,5,7,12,"Semi-automatic Rifle, Handgun",Yes,Latino,Male,39.1637984,-119.7674034
+Michigan,7/7/11,Open+Close,8,2,9,Semi-automatic Handgun,Yes,Black American or African American,Male,42.96920434,-85.66008902
+Arizona,1/8/11,Open,6,13,19,Semi-automatic Handgun,Yes,white,Male,32.2217429,-110.926479
+Connecticut,8/3/10,Close,9,2,11,Semi-automatic Handgun,No,black,Male,41.7759324,-72.5214755
+Washington,11/29/09,Close,5,0,4,Semi-automatic Handgun,Yes,Black American or African American,Male,47.16267579,-122.5296574
+Texas,11/5/09,Close,13,32,45,Semi-automatic Handgun,Yes,White American or European American,Male,31.13814354,-97.77797804
+New York,4/3/09,Close,14,4,18,Semi-automatic Handgun,Yes,Asian,Male,42.0986867,-75.9179738
+North Carolina,3/29/09,Close,8,3,11,"Handgun, Shotgun",Yes,white,Male,35.345802,-79.4170543
+California,3/29/09,Close,6,1,6,"Semi-automatic Handgun, Handgun, Shotgun",No,Asian American,Male,37.36463172,-121.9679315
+Alabama,3/10/09,Open+Close,11,6,16,"Semi-automatic Rifle, Handgun, Shotgun",No,White American or European American,Male,31.04367594,-85.8763466
+California,12/24/08,Close,10,2,11,"Semi-automatic Handgun, flame thrower",No,White American or European American,Male,34.09026669,-117.8819958
+Kentucky,6/25/08,Close,7,1,7,Semi-automatic Handgun,No,White American or European American,Male,37.84040411,-87.57853755
+Illinois,2/14/08,Close,5,21,26,"Semi-automatic Handgun, Shotgun",Yes,white,Male,41.9294736,-88.7503647
+Missouri,2/7/08,Open+Close,6,2,7,"Semi-automatic Handgun, Handgun",No,Black American or African American,Male,38.57889169,-90.42023754
+Washington,12/24/07,Close,6,0,6,"Semi-automatic Handgun, Handgun",No,White American or European American,Male/Female,47.64628742,-121.9088524
+Colorado,12/9/07,Close,5,5,9,"Semi-automatic Rifle, Semi-automatic Handgun",No,White American or European American,Male,39.81087474,-105.173715
+Nebraska,12/5/07,Close,9,4,13,Semi-automatic Rifle,Yes,white,Male,41.2587317,-95.9378732
+Wisconsin,10/7/07,Close,6,1,7,Semi-automatic Rifle,Unclear,white,Male,45.5719072,-88.9028922
+Virginia,4/16/07,Close,32,23,55,Semi-automatic Handgun,Yes,Asian,Male,37.2295733,-80.4139393
+Utah,2/12/07,Open,6,4,9,"Handgun, Shotgun",Unknown,White American or European American,Male,40.77787404,-111.9312168
+Pennsylvania,10/2/06,Close,6,5,10,"Semi-automatic Handgun, Rifle, Shotgun",Unknown,White American or European American,Male,40.04214385,-76.30100872
+Washington,3/25/06,Open,7,2,9,"Semi-automatic Rifle, Semi-automatic Handgun, Shotgun",No,white,Male,47.6229,-122.3165
+California,1/30/06,Close,8,0,7,Semi-automatic Handgun,Yes,White American or European American,Female,34.43606107,-119.8593619
+Minnesota,3/21/05,Close,10,5,14,"Semi-automatic Handgun, Shotgun",Yes,Native American or Alaska Native,Male,47.87067289,-95.00529009
+Wisconsin,3/12/05,Close,8,4,11,Semi-automatic Handgun,No,White American or European American,Male,43.06396691,-88.12299758
+Ohio,12/8/04,Open+Close,5,7,11,Semi-automatic Handgun,Yes,White American or European American,Male,39.98861445,-82.98904135
+Wisconsin,11/21/04,Open,6,2,8,Semi-automatic Rifle,No,Asian American,Male,45.65773714,-91.55077175
+Illinois,8/27/03,Close,7,0,6,Semi-automatic Handgun,No,Some other race,Male,41.83928045,-87.68818145
+Mississippi,7/8/03,Close,7,8,15,"Semi-automatic Rifle, Semi-automatic Handgun, Handgun, Shotgun",Yes,white,Male,32.376081,-88.68978002
+Arizona,10/28/02,Close,4,0,3,Semi-automatic Handgun,No,Some other race,Male,32.15358905,-110.9677647
+Illinois,2/5/01,Close,6,4,9,"Rifle, Handgun, Shotgun",No,Black American or African American,Male,41.90289602,-87.8643021
+Massachusetts,12/26/00,Close,7,0,7,"Semi-automatic Rifle, Semi-automatic Handgun, Shotgun",Yes,white,Male,42.506484,-71.0728306
+Florida,12/30/99,Open+Close,5,3,8,"Semi-automatic Handgun, Handgun",No,Some other race,Male,27.99601861,-82.44503769
+Hawaii,11/2/99,Close,7,0,7,Semi-automatic Handgun,Yes,Asian,Male,21.3255125,-157.8473055
+Texas,9/15/99,Close,8,7,14,Semi-automatic Handgun,Yes,White American or European American,Male,32.74802142,-97.31305148
+Georgia,7/29/99,Close,10,12,21,"Semi-automatic Handgun, Handgun",Yes,White American or European American,Male,33.7629969,-84.4231328
+Colorado,4/20/99,Close,15,24,37,"Semi-automatic Rifle, Semi-automatic Handgun, Shotgun",Yes,White American or European American,Male,39.59358263,-105.0152112
+Oregon,5/21/98,Close,4,25,29,"Semi-automatic Handgun, Rifle",Yes,White American or European American,Male,44.05489698,-123.0075562
+Arkansas,3/24/98,Close,5,10,15,"Semi-automatic Handgun, Rifle, Handgun",No,white,Male,35.8209895,-90.6682606
+Connecticut,3/6/98,Close,5,0,4,Semi-automatic Handgun,Yes,White American or European American,Male,41.68700845,-72.73083927
+California,12/18/97,Close,5,2,6,Semi-automatic Rifle,No,Some other race,Male,33.78935598,-117.820412
+South Carolina,9/15/97,Open+Close,4,3,7,Semi-automatic Handgun,No,Black American or African American,Male,33.47524551,-81.72595949
+Florida,2/9/96,Close,6,1,7,"Semi-automatic Handgun, Handgun",Yes,black,Male,26.1223084,-80.1433786
+Texas,4/3/95,Close,6,0,5,"Semi-automatic Handgun, Handgun",No,Unknown,Male,27.73907518,-97.43073352
+New Jersey,3/21/95,Close,4,1,5,Handgun,No,White American or European American,Male,40.826184,-74.20862
+Washington,6/20/94,Close,5,23,27,Semi-automatic Rifle,Yes,White American or European American,Male,47.618456,-117.644099
+Kentucky,5/26/94,Close,4,0,4,Handgun,No,White American or European American,Male,38.95130818,-84.67066339
+Colorado,12/14/93,Close,4,1,5,Semi-automatic Handgun,Yes,Black American or African American,Male,39.69892933,-104.7871863
+New York,12/7/93,Close,6,19,25,Semi-automatic Handgun,No,Black American or African American,Male,40.72662266,-73.644712
+North Carolina,8/6/93,Close,4,8,12,"Rifle, Shotgun",No,White American or European American,Male,35.07997086,-79.03796125
+California,7/1/93,Close,9,6,14,Semi-automatic Handgun,No,White American or European American,Male,37.75457839,-122.4424343
+New York,10/15/92,Close,5,0,4,Semi-automatic Handgun,No,White American or European American,Male,42.38013875,-76.86724659
+California,5/1/92,Close,4,10,14,"Rifle, Shotgun",Yes,White American or European American,Male,39.08174985,-121.5549539
+Michigan,11/14/91,Close,5,5,9,Semi-automatic Rifle,Yes,White American or European American,Male,42.50840203,-83.15387427
+Iowa,11/1/91,Close,6,1,6,Handgun,No,Asian American,Male,41.65589405,-91.53117986
+Texas,10/16/91,Open,24,20,43,Semi-automatic Handgun,Yes,White American or European American,Male,31.07925506,-97.73392317
+Arizona,8/9/91,Close,9,0,9,"Rifle, Shotgun",No,Asian American/Some other race,Male,33.57145875,-112.0904854
+Florida,6/17/90,Close,12,6,17,"Rifle, Handgun",No,Black American or African American,Male,30.33216122,-81.67576993
+Kentucky,9/14/89,Close,9,12,20,"Semi-automatic Rifle, Semi-automatic Handgun, Handgun",Yes,White American or European American,Male,38.249432,-85.726243
+California,8/10/89,Close,4,1,4,Unknown,No,White American or European American,Male,33.13439925,-117.0722528
+California,1/17/89,Close,6,30,35,"Semi-automatic Handgun, Semi-automatic Rifle",Yes,White American or European American,Male,37.96631812,-121.3018775
+Illinois,9/22/88,Open+Close,5,2,6,Handgun,No,Black American or African American,Male,41.83928045,-87.68818145
+California,2/16/88,Open+Close,7,4,11,"Semi-automatic Handgun, Rifle, Handgun, Shotgun",Yes,White American or European American,Male,37.38344257,-122.0256185
+Florida,4/23/87,Open,6,14,20,"Semi-automatic Rifle, Handgun, Shotgun",Yes,White American or European American,Male,27.98388983,-80.66662713
+Oklahoma,8/20/86,Close,15,6,20,Semi-automatic Handgun,Yes,White American or European American,Male,35.66889223,-97.41438792
+California,7/18/84,Close,22,19,40,"Semi-automatic Rifle, Semi-automatic Handgun, Shotgun",Yes,White American or European American,Male,32.555556,-117.047656
+Texas,6/29/84,Close,6,1,7,Semi-automatic Handgun,Yes,White American or European American,Male,32.79480596,-96.76631094
+Washington,2/18/83,Close,13,1,14,Handgun,Unknown,Asian American,Male,47.62199575,-122.323646
+Florida,8/20/82,Close,9,3,11,Shotgun,Yes,White American or European American,Male,25.79653943,-80.20840397
+California,7/12/76,Close,7,2,9,Semi-automatic Rifle,Yes,White American or European American,Male,33.88404244,-117.92785
+Louisiana,12/31/72,Close,10,13,22,"Semi-automatic Rifle, Handgun",Yes,Black American or African American,Male,30.0687242,-89.93147412
+Arizona,11/12/66,Close,5,1,6,Handgun,Yes,White American or European American,Male,33.42268696,-111.8163202
+Texas,8/1/66,Close,17,32,48,"Rifle, Handgun, Shotgun",Yes,White American or European American,Male,30.1988873,-97.84415949
