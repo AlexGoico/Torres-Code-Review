@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/AlexGoico/Torres-Code-Review/master)
+
 Torres Code Review
 ==================
 
